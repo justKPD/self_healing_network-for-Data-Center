@@ -102,10 +102,9 @@ The standalone simulation compares three configurations over 365 days:
 | Recovery time | N/A (manual) | ~3 s | < 0.5 s |
 | Downtime reduction | -- | ~50% | ~85% |
 
-## Real-world THD specifications
+## Real Data center specifications
 
 This project uses actual measurements from the THD Deggendorf
-Lehrrechenzentrum planning documents:
 
 - **3 rooms**: 57.15 m², 67.94 m², 111.97 m²
 - **Room heights**: 4.98 m, 7.53 m, 9.38 m
