@@ -1,0 +1,47 @@
+{
+  "baseline": {
+    "avg_availability": 99.71461187214612,
+    "total_packets_routed": 0,
+    "total_cable_failures": 7032,
+    "ai_stats": {
+      "self_healing_events": 0,
+      "successful_recoveries": 0,
+      "failed_recoveries": 0,
+      "recovery_rate": 0.0,
+      "avg_recovery_time": 0.0,
+      "frr_success_rate": 0.0,
+      "frr_protection_coverage": 0.0,
+      "path_cache_hit_rate": 0.0
+    }
+  },
+  "reactive": {
+    "avg_availability": 99.62043378995435,
+    "total_packets_routed": 6067,
+    "total_cable_failures": 5156,
+    "ai_stats": {
+      "self_healing_events": 7,
+      "successful_recoveries": 0,
+      "failed_recoveries": 9216,
+      "recovery_rate": 0.0,
+      "avg_recovery_time": 0.5,
+      "frr_success_rate": 0.0,
+      "frr_protection_coverage": 20.0,
+      "path_cache_hit_rate": 7.142857142857142
+    }
+  },
+  "proactive": {
+    "avg_availability": 99.70319634703198,
+    "total_packets_routed": 6052,
+    "total_cable_failures": 6890,
+    "ai_stats": {
+      "self_healing_events": 12,
+      "successful_recoveries": 0,
+      "failed_recoveries": 19456,
+      "recovery_rate": 0.0,
+      "avg_recovery_time": 0.5,
+      "frr_success_rate": 0.0,
+      "frr_protection_coverage": 20.0,
+      "path_cache_hit_rate": 5.769230769230769
+    }
+  }
+}
