@@ -1,4 +1,5 @@
 # Self-Healing Network AI
+<img width="1485" height="887" alt="image" src="https://github.com/user-attachments/assets/8e637c35-0e29-403f-9536-7ab71c14af8f" />
 
 Autonomous network recovery system for data center spine-leaf topologies.
 Detects failures in real time and reroutes traffic through pre-computed
